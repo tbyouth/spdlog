@@ -72,6 +72,10 @@ install_manifest.txt
 /tests/logs/*
 spdlogConfig.cmake
 spdlogConfigVersion.cmake
+CPackConfig.cmake
+CPackSourceConfig.cmake
+spdlog.pc
+spdlogConfigTargets.cmake
 
 # idea
 .idea/
